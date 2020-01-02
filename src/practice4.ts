@@ -17,7 +17,7 @@ interface Developer extends Person{ // Person과 유사한 형태이므로, 상�
 
 const person: Person = {
     name : "김사람",
-    age : 20
+    age : 20,
 };
 
 const expert: Developer = {
